@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://Paul123:Paul123@devconnector-r0mw2.mongodb.net/test?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://Paul123:Paul123@devconnector-r0mw2.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "WakandaForever"
 }
